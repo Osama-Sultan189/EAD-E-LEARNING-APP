@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/PIUjc8dNbgO58f1y3blIdI7fscnl5KUg7eXBVYdteo1MN6nU191M+q5pLZ3si1Q+hmGpOtpnG92aXqkQldbw==",
+  "success": true,
+  "projectFilePath": "E:\\BS 6th Semester\\EAD\\project\\E-learning\\E-learning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osama\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Osama\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Osama\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Osama\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
