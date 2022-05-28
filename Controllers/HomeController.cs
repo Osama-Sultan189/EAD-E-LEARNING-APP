@@ -37,5 +37,9 @@ namespace E_learning.Controllers
         {
             return View();
         }
+        public IActionResult signIn()
+        {
+            return View();
+        }
     }
 }
