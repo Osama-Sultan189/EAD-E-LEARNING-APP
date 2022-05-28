@@ -80,3 +80,5 @@ E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\obj\Debug\net5.0\E-
 E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\obj\Debug\net5.0\ref\E-learning.dll
 E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\obj\Debug\net5.0\E-learning.csproj.CopyComplete
 E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\obj\Debug\net5.0\Razor\Views\Course\coursePage.cshtml.g.cs
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\obj\Debug\net5.0\Razor\Views\Shared\courseCard.cshtml.g.cs
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs

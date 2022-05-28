@@ -41,5 +41,9 @@ namespace E_learning.Controllers
         {
             return View();
         }
+        public IActionResult contact()
+        {
+            return View();
+        }
     }
 }

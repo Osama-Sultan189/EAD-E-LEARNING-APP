@@ -1,0 +1,7 @@
+﻿.featured-Courses {
+    margin-top: 30px;
+}
+.featured-Courses > h1 {
+    text-align: center;
+    color:red;
+}
