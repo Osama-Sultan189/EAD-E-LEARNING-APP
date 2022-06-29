@@ -1,0 +1,52 @@
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\appsettings.Development.json
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\appsettings.json
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\E-learning-App.staticwebassets.runtime.json
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\E-learning-App.exe
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\E-learning-App.deps.json
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\E-learning-App.runtimeconfig.json
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\E-learning-App.dll
+D:\E-Learning-App\E-learning-App\E-learning-App\bin\Debug\net6.0\E-learning-App.pdb
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.csproj.AssemblyReference.cache
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.AssemblyInfoInputs.cache
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.AssemblyInfo.cs
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.csproj.CoreCompileInputs.cache
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.MvcApplicationPartsAssemblyInfo.cache
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.RazorAssemblyInfo.cache
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.RazorAssemblyInfo.cs
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\staticwebassets.build.json
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\staticwebassets.development.json
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\scopedcss\bundle\E-learning-App.styles.css
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\scopedcss\projectbundle\E-learning-App.bundle.scp.css
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.dll
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\refint\E-learning-App.dll
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.pdb
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\E-learning-App.genruntimeconfig.cache
+D:\E-Learning-App\E-learning-App\E-learning-App\obj\Debug\net6.0\ref\E-learning-App.dll
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\appsettings.Development.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\appsettings.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\E-learning-App.staticwebassets.runtime.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\E-learning-App.exe
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\E-learning-App.deps.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\E-learning-App.runtimeconfig.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\E-learning-App.dll
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\bin\Debug\net6.0\E-learning-App.pdb
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.csproj.AssemblyReference.cache
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.AssemblyInfoInputs.cache
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.AssemblyInfo.cs
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.csproj.CoreCompileInputs.cache
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.MvcApplicationPartsAssemblyInfo.cache
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.RazorAssemblyInfo.cache
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.RazorAssemblyInfo.cs
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\staticwebassets.build.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\staticwebassets.development.json
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\scopedcss\bundle\E-learning-App.styles.css
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\scopedcss\projectbundle\E-learning-App.bundle.scp.css
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.dll
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\refint\E-learning-App.dll
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.pdb
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\E-learning-App.genruntimeconfig.cache
+E:\BS 6th Semester\EAD\project\E-learning\EAD-E-LEARNING-APP\E-learning-App\obj\Debug\net6.0\ref\E-learning-App.dll
