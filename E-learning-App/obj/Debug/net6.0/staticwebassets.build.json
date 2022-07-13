@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jnqxEe+z65Q4Nq5WfX/XPB7HoZSgfUX6QVT+NLk1RqE=",
+  "Hash": "rLukCNxW7R51dr26biBRHfX0qv/xlcmIKY7rZYfAPU8=",
   "Source": "E-learning-App",
   "BasePath": "_content/E-learning-App",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\carousel.css"
+    },
+    {
+      "Identity": "E:\\BS 6th Semester\\EAD\\project\\E-learning\\EAD-E-LEARNING-APP\\E-learning-App\\wwwroot\\css\\signin.css",
+      "SourceId": "E-learning-App",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\BS 6th Semester\\EAD\\project\\E-learning\\EAD-E-LEARNING-APP\\E-learning-App\\wwwroot\\",
+      "BasePath": "_content/E-learning-App",
+      "RelativePath": "css/signin.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\signin.css"
     },
     {
       "Identity": "E:\\BS 6th Semester\\EAD\\project\\E-learning\\EAD-E-LEARNING-APP\\E-learning-App\\wwwroot\\css\\site.css",
