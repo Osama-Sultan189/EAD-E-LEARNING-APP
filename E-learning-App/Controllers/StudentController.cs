@@ -8,7 +8,17 @@ namespace E_learning_App.Controllers
         {
             return View();
         }
+        [HttpGet]
         public IActionResult Signin()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Signin(string email,string password)
+        {
+           return View();
+        }
+        public IActionResult Signup()
         {
             return View();
         }
