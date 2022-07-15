@@ -14,11 +14,7 @@ namespace E_learning_App.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Signin(string email,string password)
-        {
-           return View();
-        }
-        public IActionResult Signup()
+        public IActionResult Signin(string email, string password)
         {
             return View();
         }

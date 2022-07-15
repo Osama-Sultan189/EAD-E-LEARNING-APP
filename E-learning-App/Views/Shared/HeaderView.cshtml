@@ -3,12 +3,35 @@
 *@
 @{
 }
- <header class="p-3 bg-dark text-white">
-    <div class="container">
-      <div class="d-flex flex-wrap align-items-center justify-content-center">
-        <a href="/" class=" text-white text-decoration-none">
-          <img src="~/images/E-learning-logo.png" class="mx-2"/>
+<div class="bg-dark">
+    <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3">
+        <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
+            <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><img src="~/images/E-Learning-logo.png" /></svg>
         </a>
-      </div>
-    </div>
-  </header>
+
+        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+            <li><a href="/" class="nav-link px-2 link-light">Home</a></li>
+            <li><a href="/Home/About" class="nav-link px-2 link-light">About</a></li>
+            <li><a href="/Home/Courses" class="nav-link px-2 link-light">Courses</a></li>
+        </ul>
+
+        <div class="col-md-3 text-end mx-4">
+            @*<button class="btn btn-primary me-2 dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            Login
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item" href="/Student/signin">Login As Student</a></li>
+            <li><a class="dropdown-item" href="/Student/signup">Login As Instructor</a></li>
+            </ul>
+            <button class="btn btn-primary me-2 dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            Sign Up
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item" href="#">SignUp As Student</a></li>
+            <li><a class="dropdown-item" href="#">SignUp As Instructor</a></li>
+            </ul>*@
+            <button type="button" class="btn btn-primary" onclick="{window.location='/home/loginas'}">Login</button>
+            <button type="button" class="btn btn-primary" onclick="{window.location='/home/signup'}">Sign-up</button>
+        </div>
+    </header>
+</div>

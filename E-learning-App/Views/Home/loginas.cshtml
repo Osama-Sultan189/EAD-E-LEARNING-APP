@@ -3,6 +3,7 @@
 *@
 @{
 }
+<partial name="HeaderView" />
 <div class="container text-center justify-content-center">
     @*Asking are you a student or a teacher and also center everything*@
     <form>
@@ -10,8 +11,8 @@
             <label for=""><h3>Are you a student or a teacher?</h3></label>
         </div>
         <div class="my-2">
-                <button type="button" class="btn btn-primary mx-2">I am a Student</button>
-                <button type="button" class="btn btn-primary mx-2">I am a Teacher</button>
+            <button type="button" class="btn btn-primary mx-2" onclick="{window.location='../Student/Signin' }">I am a Student</button>
+            <button type="button" class="btn btn-primary mx-2" onclick="{window.location='../Instructor/Signin' }">I am a Teacher</button>
         </div>
-    </form>   
+    </form>
 </div>

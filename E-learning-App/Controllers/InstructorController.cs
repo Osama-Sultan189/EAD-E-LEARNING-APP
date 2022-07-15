@@ -8,6 +8,10 @@ namespace E_learning_App.Controllers
         {
             return View();
         }
+        public IActionResult Signin()
+        {
+            return View();
+        }
         public IActionResult InstructorDashboard()
         {
             return View();

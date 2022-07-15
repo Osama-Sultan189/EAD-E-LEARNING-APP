@@ -17,6 +17,23 @@ namespace E_learning_App.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Courses()
+        {
+            return View();
+        }
+        public IActionResult loginas()
+        {
+            return View();
+        }
+
+        public IActionResult Signup()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

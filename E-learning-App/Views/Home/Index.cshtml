@@ -1,69 +1,69 @@
 ﻿<partial name="HeaderView" />
 <div class="container">
-  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><img src="~/images/crousel-img-1.png"/></svg>
-        <div class="container">
-          <div class="carousel-caption text-start">
-            <h1>Learn and Grow</h1>
-            <p>Enroll Your favourite courses and learn to grow</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
-          </div>
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
-      </div>
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><img src="~/images/crousel-img-2.png"/></svg>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><img src="~/images/crousel-img-1.png" /></svg>
+                <div class="container">
+                    <div class="carousel-caption text-start">
+                        <h1>Learn and Grow</h1>
+                        <p>Enroll Your favourite courses and learn to grow</p>
+                        <p><a class="btn btn-lg btn-primary" href="/home/signup">Sign up today</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><img src="~/images/crousel-img-2.png" /></svg>
 
-        <div class="container">
-          <div class="carousel-caption">
-            <h1>Remote Classrooms.</h1>
-            <p>Learning is neither meant tobe in scchool classrooms, You can learn from anywhere anytime</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
-          </div>
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>Remote Classrooms.</h1>
+                        <p>Learning is neither meant tobe in scchool classrooms, You can learn from anywhere anytime</p>
+                        <p><a class="btn btn-lg btn-primary" href="/Home/About">Learn more</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><img src="~/images/crousel-img-3.png" /></svg>
+                <div class="container">
+                    <div class="carousel-caption text-end">
+                        <h1>Everyone deserves a chance to learn.</h1>
+                        <p>1000+ courses ranges from most basics to most advanced courses available here.</p>
+                        <p><a class="btn btn-lg btn-primary" href="/Home/courses">Browse courses</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><img src="~/images/crousel-img-3.png"/></svg>
-        <div class="container">
-          <div class="carousel-caption text-end">
-            <h1>Everyone deserves a chance to learn.</h1>
-            <p>1000+ courses ranges from most basics to most advanced courses available here.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Browse courses</a></p>
-          </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <div class="container marketing">
+        <div class="row">
+            <div class="col-lg-4">
+                <partial name="courseItem" />
+            </div>
+            <div class="col-lg-4">
+                <partial name="courseItem" />
+            </div>
+            <div class="col-lg-4">
+                <partial name="courseItem" />
+            </div>
         </div>
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div>
-  <div class="container marketing">
-    <div class="row">
-      <div class="col-lg-4">
-        <partial name="courseItem" />
-      </div>
-      <div class="col-lg-4">
-        <partial name="courseItem" />
-      </div>
-      <div class="col-lg-4">
-        <partial name="courseItem" />
-      </div>
-    </div>
 
 
 
-  </div><!-- /.container -->
-  </div>
+    </div><!-- /.container -->
+</div>
 
-  <partial name="FooterView" />
+<partial name="FooterView" />
