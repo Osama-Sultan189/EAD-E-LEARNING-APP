@@ -16,12 +16,6 @@ namespace E_learning_App.Controllers
         [HttpPost]
         public IActionResult Signin(string email, string password)
         {
-            if(StudentRepository.verifyLogin(email,password))
-            {
-                Console.WriteLine("Verified");
-                return View("DashBoard");
-            }
-            Console.WriteLine("Not Verified");
             return View();
         }
         public IActionResult DashBoard()
