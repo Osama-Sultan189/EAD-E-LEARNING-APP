@@ -34,5 +34,23 @@ namespace E_learning_App.Models
             //cmd.ExecuteNonQuery();
             //con.Close();
         }
+        public static bool verifyLogin(String email,string password)
+        {
+            string conn = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=E-learning-app;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            SqlConnection con = new SqlConnection(conn);
+            con.Open();
+            string query = "select * from [studentLogin] where Email='" + email + "' and Password='" + password + "'";
+            SqlCommand cmd = new SqlCommand(query, con);
+            SqlDataReader dr = cmd.ExecuteReader();
+            if (dr.HasRows)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
     }
 }
